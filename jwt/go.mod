@@ -1,4 +1,4 @@
-module github.com/saveblush/gofiber3-contrib/jwt
+module github.com/kiuber/gofiber3-contrib/jwt
 
 go 1.23.1
 

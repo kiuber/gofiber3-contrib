@@ -1,4 +1,4 @@
-module github.com/saveblush/gofiber3-contrib/websocket
+module github.com/kiuber/gofiber3-contrib/websocket
 
 go 1.23.1
 

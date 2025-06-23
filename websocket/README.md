@@ -18,7 +18,7 @@ Based on [Fasthttp WebSocket](https://github.com/fasthttp/websocket) for [Fiber]
 
 ```
 go get -u github.com/gofiber/fiber/v3
-go get -u github.com/saveblush/gofiber3-contrib/websocket
+go get -u github.com/kiuber/gofiber3-contrib/websocket
 ```
 
 ## Signatures
@@ -50,7 +50,7 @@ import (
 	"log"
 
 	"github.com/gofiber/fiber/v3"
-	"github.com/saveblush/gofiber3-contrib/websocket"
+	"github.com/kiuber/gofiber3-contrib/websocket"
 )
 
 func main() {
